@@ -3,6 +3,7 @@ Music-Player created by flutter and kotlin with Foreground Services using Method
 
 
 ## Features
+- Read local mp3 files of your phone.
 - Play music using Foreground services (Native code) without dependencies.
 - Control player with notification buttons.
 - Listen to Accelerometer sensor if user shake his phone.
