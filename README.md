@@ -18,4 +18,3 @@ Music-Player created by flutter and kotlin with Foreground Services using Method
 <img src=https://user-images.githubusercontent.com/65148928/170351299-e1e2163b-e329-4a08-ab9a-59f6aa53cd8c.png alt="drawing" width="200"/>
 
 
-https://user-images.githubusercontent.com/65148928/170350751-689b1613-296c-48ab-b16f-9088b3fa9525.mp4
