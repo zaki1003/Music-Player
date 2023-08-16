@@ -1,5 +1,5 @@
 # Music-Player
-Music-Player created using flutter and kotlin and Foreground Services, as well as MethodChannel and EventChannel. And it includes sensors like if the user shake his phone the player will pause the music or resume playing using Accelerometer sensor. 
+Music-Player created using flutter and kotlin and Foreground Services, it uses MethodChannel and EventChannel to connect dart code and kotlin code. And it includes sensors like if the user shake his phone the player will pause the music or resume playing using Accelerometer sensor. 
 
 
 ## Features
